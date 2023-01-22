@@ -1,0 +1,27 @@
+{
+  "name": "preciosa",
+  "version": "0.1.0",
+  "description": "Preciosa catalog",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agte/preciosa.git"
+  },
+  "keywords": [
+    "beads",
+    "preciosa",
+    "catalog"
+  ],
+  "author": "Anna Agte <matiasrustagte@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agte/preciosa/issues"
+  },
+  "homepage": "https://github.com/agte/preciosa#readme",
+  "dependencies": {
+    "meow": "github:agte/meow"
+  }
+}
